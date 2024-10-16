@@ -2,4 +2,4 @@
 test basic repository functions
 
 제어공학과제2
-park min su 010316
+2020732016 박민수
